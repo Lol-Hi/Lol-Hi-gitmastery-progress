@@ -321,15 +321,5 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "merge-undo",
-    "started_at": 1786729706.45377,
-    "completed_at": 1786729709.722865,
-    "comments": [
-      "It appears the merge commits are still in the history of the 'main' branch. This shouldn't be the case",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
