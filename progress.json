@@ -330,5 +330,14 @@
       "Great work with undoing the merges! Try listing the directory to see what has changed."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1786730348.435959,
+    "completed_at": 1786730351.975091,
+    "comments": [
+      "The main branch does not contain the expected commits."
+    ],
+    "status": "Incomplete"
   }
 ]
