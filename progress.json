@@ -393,5 +393,14 @@
       "Great job deleting the VWX branch!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1786810351.675121,
+    "completed_at": 1786810370.790222,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git ls-remote --heads origin\n  stderr: 'git@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.'"
+    ],
+    "status": "Error"
   }
 ]
